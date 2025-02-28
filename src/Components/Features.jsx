@@ -37,7 +37,7 @@ function Features() {
               ))}
             </h1>
             <div className="card-inner w-full h-full rounded-xl overflow-hidden">
-              <img className="w-full h-full bg-cover" src="./src/card1.jpg" alt="" />
+              <img className="w-full h-full bg-cover" src="./card1.jpg" alt="" />
             </div>
           </motion.div>
           <motion.div
@@ -58,7 +58,7 @@ function Features() {
               ))}
             </h1>
             <div className="card-inner w-full h-full rounded-xl overflow-hidden">
-              <img className="w-full h-full bg-cover" src="./src/card2.jpg" alt="" />
+              <img className="w-full h-full bg-cover" src="./card2.jpg" alt="" />
             </div>
           </motion.div>
         </div>

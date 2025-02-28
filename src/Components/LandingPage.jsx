@@ -22,11 +22,7 @@ function LandingPage() {
                     transition={{ ease: [0.76, 0, 0.24, 1], duration: 1 }}
                     className=" relative mr-[1.1vw] -top-[1.3vw]"
                   >
-                    <img
-                      className="w-[10vw] h-[6vw] rounded-md"
-                      src="./src/Heading-image.jpg"
-                      alt=""
-                    />
+                    <img className="w-[10vw] h-[6vw] rounded-md" src="./Heading-image.jpg" alt="" />
                   </motion.div>
                 )}
                 <h1 className="text-[9.5vw] font-['Founders_Grotesk_X_Condensed'] uppercase leading-[7vw] font-semibold">
