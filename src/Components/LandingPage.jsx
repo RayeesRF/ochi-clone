@@ -22,7 +22,11 @@ function LandingPage() {
                     transition={{ ease: [0.76, 0, 0.24, 1], duration: 1 }}
                     className=" relative mr-[1.1vw] -top-[1.3vw]"
                   >
-                    <img className="w-[10vw] h-[6vw] rounded-md" src="./Heading-image.jpg" alt="" />
+                    <img
+                      className="w-[10vw] h-[6vw] rounded-md"
+                      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdukQSzCSm0sTritcAun0lPmRzx_E-QOpGQg&s"
+                      alt=""
+                    />
                   </motion.div>
                 )}
                 <h1 className="text-[9.5vw] font-['Founders_Grotesk_X_Condensed'] uppercase leading-[7vw] font-semibold">
